@@ -34,6 +34,9 @@
 #define SIZE_AMMO_357_LARGE			20
 #define SIZE_AMMO_CROSSBOW			6
 #define	SIZE_AMMO_AR2_ALTFIRE		1
+//Modded ammo MP5, for now
+#define SIZE_AMMO_MP5				35
+#define SIZE_AMMO_MP5_LARGE			110
 
 #define SF_ITEM_START_CONSTRAINED	0x00000001
 
